@@ -1,0 +1,687 @@
+
+  Obecná veøejná licence GNU v.3 (GNU GPL v.3)
+
+This is an unofficial translation of the GNU General Public License into
+Czech. It was not published by the Free Software Foundation, and does
+not legally state the distribution terms for software that uses the GNU
+GPL - only the original English text of the GNU GPL
+<https://www.gnu.org/licenses/gpl-3.0-standalone.html> does that.
+However, we hope that this translation will help Czech speakers
+understand the GNU GPL better.
+
+Tento text je neoficiálním èeskım pøekladem GNU General Public License
+(Obecné veøejné licence GNU). Nebyl vydán nadací Free Software
+Foundation a tak právnì neupravuje distribuèní podmínky softwaru, kterı
+je licencován pod GNU GPL. Právnì závaznı je pouze anglickı originál GNU
+GPL <https://www.gnu.org/licenses/gpl-3.0-standalone.html>. Doufáme ale,
+e pøeklad pomùe èeskım ètenáøùm lépe porozumìt GNU GPL.
+
+Copyright © 2007 Free Software Foundation, Inc.
+
+Kopírování a distribuce doslovnıch kopií tohoto licenèního dokumentu
+jsou povoleny, ale jeho úpravy jsou zakázány.
+
+
+    Preambule
+
+Obecná veøejná licence GNU (v angliètinì GNU General Public License,
+dále jen jako “GNU GPL” nebo “GPL”) je svobodná, “copyleft” (èást
+autorskıch práv ponechává a èásti se zøíká) licence pro software a jiná
+díla.
+
+Vìtšina licencí pro software a jiná díla jsou navreny tak, aby
+omezovaly svobodu jeho sdílení a úprav. Naproti tomu, Obecná veøejná
+licence GNU zaruèuje svobodu sdílení a úprav všech verzí programu – aby
+byl software svobodnı pro všechny jeho uivatele. My, ze Free Software
+Foundation, pouíváme Obecnou veøejnou licenci GNU pro vìtšinu našich
+programù, ale licence se vztahuje i na díla jinıch autorù, kteøí se je
+rozhodli zveøejnit právì tímto zpùsobem. Mùete ji rovnì pouít pro své
+programy.
+
+Pokud mluvíme o svobodném softwaru, myslíme tím svobodu pouívání,
+nikoliv cenu. Naše Obecné veøejné licence jsou navreny tak, abyste
+mohli volnì šíøit kopie svobodného softwaru (a pokud chcete, nechat si
+za to i zaplatit), abyste obdreli zdrojovı kód, nebo ho mìli monost
+získat, abyste mohli tento software mìnit nebo jeho èásti pouít v
+novıch programech a abyste vìdìli, e tyto vìci smíte dìlat.
+
+Abychom mohli chránit vaše práva, musíme zabránit tomu, aby vám kdokoliv
+tato práva odepíral, nebo vás ádal, abyste se tìchto práv vzdali. Proto
+i vy máte urèité povinnosti, které musíte dodret, pokud šíøíte nebo
+upravujete takovı software, a to povinnost respektovat svobodu ostatních.
+
+Napøíklad, šíøíte-li kopie programu, a ji zdarma nebo za poplatek,
+pøíjemci musíte poskytnout stejná práva, jaké jste sami obdreli. Musíte
+zaruèit, e pøíjemci rovnì dostanou, anebo mohou získat zdrojovı kód. A
+aby i oni znali svá práva, musíte je upozornit na tyto podmínky.
+
+Vıvojáøi, kteøí pouívají GNU GPL, chrání vaše práva ve dvou krocích:
+(1) zabezpeèením autorskıch práv k softwaru, a (2) nabídkou této
+Licence, která vám dává právoplatné svolení k jeho kopírování, šíøení
+a/nebo jeho úpravì.
+
+Kvùli ochranì kadého vıvojáøe a autora, GPL dává jasnì najevo, e pro
+svobodnı software neexistuje ádná záruka. V zájmu obou stran, uivatelù
+i autorù, GPL poaduje, aby upravené verze programu byly pøíslušnì
+oznaèeny, a to kvùli tomu, aby za pùvodce pøípadnıch chyb programu
+nebyli nesprávnì oznaèeni autoøi pùvodních verzí.
+
+Nìkterá zaøízení uivatelùm zakazují instalaci nebo spuštìní upravenıch
+verzí softwaru, i kdy vırobce si takovou monost ponechal. Toto je z
+principu nesluèitelné s cílem ochrany uivatelské svobody – svobody
+jakkoli software mìnit. Takové porušování se systematicky vyskytuje tam,
+kde je program urèen pro jednotlivce, tedy tam, kde je to nejménì
+pøijatelné. Abychom takovım poèinem pøedešli, vytvoøili jsme tuto verzi
+GPL. Jestlie problémy tohoto druhu budou nadále vznikat, jsme
+pøipraveni je podle potøeby ošetøit v následujících verzích GPL.
+
+Závìrem, kadı program je neustále ohroen softwarovımi patenty. Státy
+by nemìly povolovat patenty pro zamezení vıvoje a pouití softwaru,
+kterı je urèen pro všeobecné pouití. Ale u tìch, které tak èiní, bychom
+rádi zamezili nebezpeèí, e by distributoøi svobodného programu obdreli
+samostatná patentová osvìdèení a tím by uèinili takovı program vázanım.
+Abychom tomu zamezili, GPL zaruèuje, e patenty nemohou èinit program
+nesvobodnım.
+
+Pøesná ustanovení a podmínky pro kopírování, šíøení a upravování
+naleznete níe.
+
+
+    USTANOVENÍ a PODMÍNKY
+
+
+      0. Definice
+
+Oznaèením “tato Licence” se myslí 3. verze Obecné veøejné licence GNU.
+
+“Autorskımi právy” se myslí i zákony pøíbuzné autorskım právùm,
+vztahující se na jiné druhy díl, jako napø. polovodièové masky.
+
+“Programem” se oznaèuje jakékoli dílo, které mùe bıt chránìno
+autorskımi právy a je licencováno touto Licencí. Uivatel licence se
+oznaèuje jako “vy”. “Uivatelé licence” a “pøíjemci licence” mohou bıt
+jednotlivci nebo organizace.
+
+“Upravováním” díla se rozumí zkopírování nebo pøizpùsobení celého nebo
+jen èásti díla zpùsobem, kterı vyaduje autorská práva. Nemyslí se tím
+vytvoøení pøesné kopie. Vısledné dílo se nazıvá “upravenou verzí”
+pùvodního díla nebo dílo “zaloené na” pùvodním díle.
+
+“Chránìnım dílem” se myslí neupravená verze Programu nebo dílo zaloené
+na Programu.
+
+“Šíøením” díla se oznaèuje jakákoli èinnost, která by vás èinila pøímo
+èi nepøímo odpovìdnımi za porušení Zákona o ochranì autorskıch práv,
+kromì spouštìní díla na osobním poèítaèi nebo vytváøení vlastní kopie.
+Šíøení zahrnuje kopírování, distribuci (s nebo bez úpravy), zpøístupnìní
+veøejnosti a v nìkterıch zemích i další aktivity.
+
+“Zveøejnit” dílo znaèí jakıkoliv druh šíøení, které dalším stranám
+umoòuje vırobu nebo poøízení kopií. Bìné pouívání díla pøes
+poèítaèovou sí, bez pøenosu kopie k uivateli, se nepovauje za
+zveøejnìní díla.
+
+Interaktivní uivatelské prostøedí zobrazuje “Pøíslušné právní podmínky”
+v takovém rozsahu, e jsou uivateli pohodlnì vnímatelné a umístìny na
+dobøe viditelném místì a (1) oznam zobrazuje Pøíslušné právní podmínky a
+(2) oznamuje uivateli, e na dílo se nevztahuje záruka (kromì pøípadù,
+kdy se záruka udìluje), e uivatelé licence mohou dílo na základì této
+Licence dále zveøejòovat a oznamuje, kde si mohou tuto Licenci pøeèíst.
+Pokud uivatelské prostøedí obsahuje seznam uivatelskıch pøíkazù, dobøe
+viditelné umístìní v takovém menu splòuje toto kritérium.
+
+
+      1. Zdrojovı kód
+
+“Zdrojovı kód” oznaèuje preferovanou formu díla urèenou na jeho úpravy.
+“Strojovım kódem” se oznaèuje jakákoli nezdrojová forma díla.
+
+“Standardním rozhraním” se myslí rozhraní, které je buï uznáno jako
+oficiální standard definován uznávanou standardizující autoritou, nebo,
+v pøípadì rozhraní urèenıch pro urèitı programovací jazyk, je to
+rozhraní, které je uznané širokou vıvojáøskou veøejností daného jazyka.
+
+“Systémové knihovny” spustitelného díla zahrnují vše (kromì díla jako
+celku), co (a) je zahrnuto v bìné formì balení hlavního komponentu, ale
+není souèástí hlavního komponentu a (b) slouí pouze pro usnadnìní práce
+s hlavní komponentou, nebo k implementaci standardního rozhraní tam, kde
+je implementace formou zdrojového kódu veøejnosti povolena. V tomto
+kontextu se “hlavní komponentou” myslí hlavní nezbytná souèást (jádro,
+správce oken, atp.) daného operaèního systému (pokud nìjakı je), na
+kterém spustitelné dílo bìí, nebo kompilátor pouívanı ke spuštìní
+díla, nebo spouštìè strojového kódu pouívanı k bìhu díla.
+
+“Úplnı zdroj” díla znaèí veškerı zdrojovı kód potøebnı pro generování,
+instalaci, spouštìní (pro spustitelná díla) strojového kódu a úpravu
+díla, vèetnì skriptù pro kontrolu tìchto úkonù. Nezahrnuje systémové
+knihovny díla, nebo obecné nástroje nebo obecnì pøístupné svobodné
+programy, které jsou pouívány (v neupravené podobì) k provedení tìchto
+úkonù a nejsou souèástí díla. Napøíklad, Úplnı zdroj zahrnuje soubory
+pro definici rozhraní pøidruené ke zdrojovım souborùm díla, zdrojovı
+kód sdílenıch knihoven a dynamicky navázané podprogramy, které dílo ke
+správnému fungování potøebuje – a to buï formou datové komunikace, nebo
+formou kontroly pøenosu mezi podprogramy a jinımi èástmi díla.
+
+Úplnı zdroj nemusí obsahovat nic, co si mohou uivatelé automaticky
+vygenerovat z jinıch èástí Úplného zdroje.
+
+Úplnı zdroj pro dílo v podobì zdrojového kódu je dané dílo samo.
+
+
+      2. Základní privilegia
+
+Všechna práva zaruèená touto Licencí trvají po dobu platnosti autorského
+práva na Program a jsou neodvolatelné, pokud jsou dodreny podmínky
+uvedené níe. Tato Licence explicitnì potvrzuje vaše neomezené právo na
+spouštìní neupraveného Programu. Vıstup ze spuštìní chránìného díla tato
+Licence upravuje pouze v pøípadì, e vıstup, vzhledem ke svému obsahu,
+pøedstavuje chránìné dílo samo. Tato Licence zároveò uznává vaše právo
+na “fair use <http://cs.wikipedia.org/wiki/Fair_use>” (správné
+pouívání) nebo jinı ekvivalent danı zákonem o autorském právu.
+
+Dokud je vaše licence platná, mùete tvoøit, spouštìt a šíøit chránìná
+díla bez jakıchkoli omezení, i kdy díla sami nezveøejòujete. Pro úèely
+exkluzivních úprav dìl vıhradnì ve váš prospìch nebo vytvoøení
+prostøedkù ke spuštìní tìchto dìl, mùete chránìná díla zveøejnit pouze
+v pøípadì, e v souladu s podmínkami této Licence zveøejníte všechny
+materiály, ke kterım nevlastníte autorská práva. A ti, kteøí tvoøí a
+spouštìjí chránìná díla za vás, musí tak èinit vıhradnì vaším jménem, s
+vaším usmìròováním a pod vaší kontrolou, v podmínkách, které jim mimo
+vztahu s vámi zakazují tvoøit jakékoli kopie vašeho materiálu, ke
+kterému jste dritelem autorskıch práv.
+
+Za jinıch okolností zveøejnìní díla podléhá podmínkám uvedenım níe.
+Sublicencování není povoleno, odstavec 10 ho èiní zbyteènım.
+
+
+      3. Ochrana zákonnıch práv uivatelù pøed Zákonem proti obcházení
+
+ádné chránìné dílo by nemìlo bıt povaováno za souèást efektivních
+technologickıch prostøedkù na základì platnıch právních pøedpisù podle
+èlánku 11, Smlouvy WIPO o autorskıch právech, pøijaté dne 20. prosince
+1996, nebo obdobnıch zákonù zakazujících nebo omezujících obcházení
+takovıch prostøedkù.
+
+Pokud zveøejníte chránìné dílo, zøíkáte se jakékoliv právní moci zakázat
+obcházení technologickıch prostøedkù kromì pøípadu, kdy by takové
+obcházení bylo provedeno na základì práva vyplıvajícího z této Licence.
+Zároveò se zøíkáte jakéhokoliv zámìru omezit provoz nebo úpravu díla
+kvùli prosazení zákonnıch práv (v rozporu s uivateli díla) vašich nebo
+tøetí strany na zákaz obcházení technologickıch prostøedkù.
+
+
+      4. Zveøejòování doslovnıch kopií
+
+Doslovné kopie zdrojového kódu Programu mùete zveøejòovat tak, jak jste
+jej obdrel, za pomoci libovolného média, ale pouze za pøedpokladu, e
+na kadé kopii uvedete zmínku o autorovi a absenci záruky na vhodném a
+viditelném místì, e všechny zmínky odkazující na tuto Licenci a na
+jakoukoli pøidanou podmínku podle odstavce 7 ponecháte beze zmìn a e
+zároveò ponecháte nedotèené všechny zmínky o absenci záruky a všem
+pøíjemcùm zprostøedkujete kopii této Licence spolu s Programem.
+
+Za kadou zveøejnìnou kopii si mùete úètovat peníze (ale nemusíte) a
+také mùete nabízet sluby zákaznické podpory nebo záruku za poplatek.
+
+
+      5. Zveøejòování upravenıch verzí zdroje
+
+Dílo zaloené na Programu, nebo úpravy na vytvoøení díla zaloené na
+Programu, mùete zveøejòovat ve formì zdrojového kódu dle platnıch
+podmínek odstavce 4, za pøedpokladu, e zároveò splníte všechny
+následující podmínky:
+
+  * a) Dílo musí obsahovat zøetelnou zmínku o tom, e bylo upraveno,
+    spolu s datem jeho úpravy.
+  * b) Dílo musí obsahovat zøetelnou zmínku o tom, e bylo vydáno pod
+    touto Licencí a zmínku o jakıchkoliv pøidanıch podmínkách v souladu
+    s odstavcem 7. Tento poadavek upravuje poadavek na “ponechání
+    všech zmínek beze zmìn” z odstavce 4.
+  * c) Celé dílo musíte licencovat touto Licencí pro kadého, kdo si
+    kopii opatøí, anebo s ní jinak pøijde do styku. Licence se, spolu s
+    jakımikoli dalšími podmínkami podle odstavce 7, proto vztahuje na
+    dílo jako celek a na všechny jeho èásti, bez ohledu na to, jak je
+    dílo a jeho èásti balené. Tato Licence nedává povolení k licencování
+    dìl jinım zpùsobem, ale pokud jste toto povolení získali jinak, tato
+    Licence takové povolení neruší.
+  * d) Pokud dílo obsahuje interaktivní uivatelská rozhraní, kadé z
+    nich musí zobrazovat Pøíslušné právní podmínky. Pokud ale Program
+    obsahuje interaktivní uivatelská rozhraní, která nezobrazují
+    Pøíslušné právní podmínky, vaše dílo nemusí pøinutit Program, aby je
+    zobrazoval.
+
+Kompilace chránìného díla s jinımi vzájemnì nezávislımi díly, které ze
+své podstaty nejsou rozšíøeními chránìného díla a které s ním nejsou
+kombinovány tak, aby tvoøily jeden vìtší program na pamìovém médiu, èi
+jiném distribuèním médiu, se nazıvá “agregát”, pokud kompilace a její
+vısledné autorská práva nejsou pouívány k omezování pøístupu nebo
+zákonnıch práv uivatelù kompilace nad míru, kterou samostatná díla
+povolují. Zahrnutím chránìného díla do agregátu tato Licence nenabıvá
+platnosti na jiné èásti agregátu.
+
+
+      6. Zveøejòování nezdrojovıch verzí
+
+Dílo mùete zveøejòovat prostøednictvím strojového kódu podle odstavcù 4
+a 5, uvedenıch vıše, pokud zveøejníte i strojem-èitelnı Úplnı zdroj dle
+ustanovení této Licence, jedním z následujících zpùsobù:
+
+  * a) Zveøejníte strojovı kód ve fyzickém produktu (vèetnì fyzického
+    distribuèního média), doplnìnı Úplnım zdrojem uloenım na trvalém
+    fyzickém médiu bìnì pouívaném pro vımìnu softwaru.
+  * b) Zveøejníte strojovı kód ve fyzickém produktu (vèetnì fyzického
+    distribuèního média), doplnìnı písemnou nabídkou platnou nejménì tøi
+    roky a tak dlouho, dokud pro ten danı model produktu nabízíte
+    náhradní díly nebo zákaznickou podporu, abyste komukoliv, kdo si
+    strojovı kód opatøí, poskytly buï (1) kopii Úplného zdroje pro
+    veškerı software obsaenı v produktu a chránìnı touto Licencí na
+    trvalém fyzickém médiu bìnì pouívaném pro vımìnu softwaru, za cenu
+    nepøesahující náklady vzniklé na fyzické vyhotovení takové kopie,
+    nebo (2) poskytli bezplatnı pøístup k Úplnému zdroji na síovém serveru.
+  * c) Zveøejníte jednotlivé kopie strojového kódu s kopií písemné
+    nabídky zpøístupnit Úplnı zdroj. Tato alternativa je povolena jen
+    vıjimeènì, pro nekomerèní úèely a jen v pøípadì, e jste i vy
+    pøijali strojovı kód s takovou nabídkou, v souladu s odstavcem 6. b).
+  * d) Zveøejníte strojovı kód nabídkou pøístupu z urèeného místa
+    (zdarma nebo za poplatek) a nabídnete rovnocennı pøístup k Úplnému
+    zdroji stejnım zpùsobem, ze stejného místa a bez dodateènıch
+    poplatkù. Od pøíjemcù musíte vyadovat, aby Úplnı zdroj zkopírovali
+    spolu se strojovım kódem. Pokud je tím místem na zkopírování
+    strojového kódu síovı server, Úplnı zdroj mùe bıt na jiném serveru
+    (provozovanı vámi nebo tøetí stranou), kterı podporuje ekvivalentní
+    prostøedky pro kopírování a za podmínky, e vedle strojového kódu
+    zajistíte jasné instrukce o tom, jak Úplnı zdroj najít. Nezávisle na
+    tom, jakı server hostuje Úplnı zdroj, jste povinen zajistit, e bude
+    pøístupnı tak dlouho, dokud bude tøeba tyto poadavky naplòovat.
+  * e) Zveøejníte strojovı kód pomocí peer-to-peer pøenosu, za podmínky,
+    e jiné poèítaèe (peers) informujete, kde je ten strojovı kód a
+    Úplnı zdroj díla zveøejnìn zdarma, v souladu s odstavcem 6. d).
+
+Oddìlitelná èást strojového kódu, jeho zdrojovı kód nespadá do Úplného
+zdroje jako systémová knihovna, nemusí bıt souèástí zveøejnìní
+strojového kódu díla.
+
+“Uivatelskı produkt” je buï (1) “zákaznickı produkt”, co znamená
+jakékoliv soukromé vlastnictví, které je bìnì pouívané pro soukromé,
+rodinné úèely a úèely pro domácnost, nebo (2) cokoliv vytvoøené a
+prodávané pro zabudování do obytnıch prostor. Pro urèení toho, zda je
+produkt zákaznickım, sporné pøípady mají bıt rozhodnuty ve prospìch
+toho, e jimi jsou. Pro danı produkt pøijat danım uivatelem, “bìné
+pouívání” znamená typické pouití daného druhu produktu, nezávisle na
+daném uivateli nebo na konkrétním uivatelovì zpùsobu pouití, jeho
+oèekávání, nebo oèekávání, které se na uivatele kladou. Produkt je
+zákaznickım produktem nezávisle na tom, zda má produkt podstatné
+komerèní, prùmyslové, nebo ne-zákaznické vyuití, pokud taková vyuití
+pøedstavují jedinı signifikantní zpùsob pouití produktu.
+
+“Instalaèní informace” pro uivatelskı produkt jsou jakékoliv metody,
+procedury, autorizaèní klíèe, nebo jiné informace potøebné k instalaci a
+spuštìní upravenıch verzí chránìného díla v daném uivatelském produktu
+z upravené verze Úplného zdroje. Informace musí zajistit, e se v ádném
+pøípadì nebude bránit nebo zasahovat nepøerušené funkcionalitì
+upraveného strojového kódu jen proto, e byly úpravy provedeny.
+
+Pokud budete strojovı kód zveøejòovat podle tohoto odstavce v, nebo se,
+nebo vıhradnì pro pouití v zákaznickém produktu a zveøejnìní bude
+souèástí transakce, v ní se právo na drení a pouívání uivatelského
+produktu pøevádí na pøíjemce na neomezenou dobu nebo na dobu urèitou
+(bez ohledu na to, jak je transakce charakterizována), Úplnı zdroj
+zveøejnìn na základì tohoto odstavce musí bıt doplnìn o instalaèní
+informace. Tento poadavek však neplatí, pokud ani vy, ani ádná tøetí
+strana si neponechává monost instalovat upravenı strojovı kód pro
+uivatelskı produkt (napø. dílo bylo instalováno na ROM).
+
+Poadavek poskytnutí instalaèních informací nezahrnuje poadavek na
+pokraèování v poskytování zákaznické podpory, záruky, nebo aktualizací
+pro dílo, které bylo upraveno nebo instalováno pøíjemcùm, nebo pro
+uivatelskı produkt, ve kterém byl upraven nebo instalován. Pøístup k
+síti mùe bıt odmítnut, pokud by mìla samotná úprava vìcnì a nepøíznivì
+ovlivòovat chod sítì, nebo porušuje pravidla a protokoly pro komunikaci
+na síti.
+
+Zveøejnìnı Úplnı zdroj a uvedené instalaèní informace musí, v souladu s
+tímto odstavcem, bıt ve formátu, kterı je veøejnì dokumentovanı (a s
+veøejnì dostupnou implementací ve formì zdrojového kódu) a nemùe
+vyadovat ádné speciální hesla nebo klíèe pro rozbalení, ètení a
+kopírování.
+
+
+      7. Dodateèné podmínky
+
+“Dodateèná práva” jsou podmínky, které doplòují podmínky této Licence
+vıjimkami na jednu nebo více podmínek. Dodateèná práva, která se mohou
+vztahovat na celı Program, se povaují za souèást této Licence, ale jen
+dokud dodrují platné právní pøedpisy. Pokud se uplatní dodateèná práva
+pouze na èást Programu, daná èást se má pouívat zvláš na základì
+tìchto práv, ale na celı Program se vztahují podmínky této Licence bez
+dodateènıch práv.
+
+Pokud zveøejníte kopii chránìného díla, mùete z ní podle vlastní
+libosti odstranit kterékoli další práva, nebo jejich kteroukoliv èást.
+(Dodateèné práva mohou bıt sestaveny tak, aby v nìkterıch pøípadech
+úpravy díla poadovali samotné jejich odstranìní.) Dodateèné práva
+mùete pøidat na materiál, kterı byl ke chránìnému dílu pøidán vámi,
+nebo pro které vlastníte, nebo mùete vydat, pøíslušná autorská práva.
+
+Bez ohledu na jakákoli jiná ustanovení této Licence mùete pro materiál,
+kterı byl pøidán ke chránìnému dílu (pokud vlastníte autorská práva k
+materiálu), rozšíøit podmínky této Licence o podmínky:
+
+  * a) Popøít záruku èi omezit odpovìdnost jinım zpùsobem, ne je
+    uvedeno v odstavci 15 a 16 této Licence, nebo
+  * b) Poadovat uchování specifickıch odùvodnìnıch zákonnıch vyhlášek
+    nebo autorskıch pøíspìvkù do materiálu, nebo do Pøíslušnıch právních
+    podmínek zobrazovanıch díly, které je obsahují, nebo
+  * c) Zakázat zavádìní o pùvodu materiálu, nebo poadovat, aby byly
+    upravené verze tohoto materiálu oznaèeny pøimìøenım zpùsobem, tedy
+    jako odlišné od originálu, nebo
+  * d) Omezit veøejné uívání jmen poskytovatelù licence nebo autorù
+    materiálu, nebo
+  * e) Popøít pøenos práv podle Zákona o ochrannıch známkách pro nìkteré
+    ochranné známky, znaèky a servisní známky, nebo
+  * f) Poadovat odškodnìní poskytovatele licence a autorù materiálu od
+    kohokoli, kdo zveøejní materiál (nebo jeho upravenou verzi) se
+    smluvními závazky k pøíjemci, a za jakıkoli závazek, kterı smlouva
+    pøímo ukládá na poskytovatele licence a autorù.
+
+Jiné zakazující dodateèné podmínky jsou ve smyslu odstavce 10 brané jako
+“další omezení”. Pokud Program, nebo jeho èást, tak jak jste jej
+obdreli, obsahuje zmínku o tom, e je licencovanı touto Licencí spolu s
+podmínkou, která je dalším omezením, mùete tuto podmínku odebrat. Pokud
+licenèní dokument obsahuje další omezení, ale povoluje znovu-licencování
+a zveøejnìní pod touto Licencí, mùete ke chránìnému dílu pøidat
+materiál podléhající podmínkám toho licenèního dokumentu, ale pouze za
+podmínky, e další omezení se takovımto znovu-licencováním nebo
+zveøejnìním zruší.
+
+Pokud ke chránìnému dílu pøidáte podmínky v souladu s tímto odstavcem,
+do pøíslušnıch zdrojovıch souborù musíte umístit prohlášení o
+dodateènıch podmínkách vztahující se na dané soubory, nebo zmínku o tom,
+kde tyto platné podmínky najít.
+
+Dodateèné podmínky, povolující nebo zakazující, mohou bıt podány formou
+zvláštní napsané licence, nebo podány jako vıjimky (ale nezávisle na
+zpùsobu, platí vše, co je vıše uvedeno).
+
+
+      8. Ukonèení
+
+Šíøit nebo upravovat chránìné dílo mùete vıslovnì jen pod touto
+Licencí. Jakákoli snaha šíøit nebo upravovat dílo jinım zpùsobem, je
+porušením tìchto podmínek a znamená automatické ukonèení vašich práv
+plynoucích z této Licence (vèetnì jakıchkoliv patentovıch licencí
+udìlenıch podle odstavce 11.3)).
+
+Pokud napravíte všechny porušení této Licence, pak je vaše licence z
+daného autorského práva obnovena (a) doèasnì, pokud a dokud dritel
+autorskıch práv vıslovnì a s koneènou platností neukonèí vaši licenci a
+(b) trvale, pokud se driteli autorskıch práv nepodaøí vhodnımi
+prostøedky vás o porušení seznámit do 60 dnù po ukonèení.
+
+Navíc, vaše licence od daného dritele autorskıch práv se natrvalo
+obnovuje i v pøípadì, e vás dritel autorskıch práv vhodnımi prostøedky
+informuje o porušení a toto je poprvé, co jste obeznámení o porušení
+této Licence (pro jakékoli dílo) od toho dritele autorskıch práv
+obdreli a vy napravíte porušení do 30 dnù po doruèení oznámení.
+
+Ukonèení vašich práv podle tohoto odstavce neukonèuje licenci stran,
+které na základì této Licence obdrely kopie nebo práva od vás. Pokud
+byly vaše práva ukonèeny a nebyly natrvalo obnoveny, nemáte právo
+pøijmout nové licence pro danı materiál vyplıvající z odstavce 10.
+
+
+      9. Pøijetí Licence není povinné pro drení kopií
+
+Pro pøijímání nebo spouštìní kopie Programu nejste povinen tuto Licenci
+pøijmout. Pokud je to pouze vısledkem pouití pøenosu peer-to-peer, ani
+pomocné šíøení chránìného díla nevyaduje pøijetí. Nic jiného ne tato
+Licence vám ale nedává monost kopírovat nebo šíøit chránìné dílo. V
+pøípadì, e tuto Licenci nepøijmete, tyto èinnosti porušují autorská
+práva. Úpravou nebo šíøením chránìného díla tedy vyjadøujete souhlas s
+Licencí a všem jejím ustanovením a podmínkám.
+
+
+      10. Automatické licencování následnıch pøíjemcù
+
+Po kadé, kdy zveøejòujete chránìné dílo, získává pøíjemce od pùvodního
+poskytovatele licence licenci pro spouštìní, úpravu nebo šíøení daného
+díla v souladu s ustanoveními této Licence. Nejste odpovìdnı za
+dodrování této Licence tøetími stranami.
+
+“Pøenos entity” je pøenos kontroly nad organizací, nebo v podstatì
+pøenos všech jejích aktiv, nebo rozdìlení organizace, nebo spojení
+organizací. Pokud šíøení chránìného díla vyplıvá z pøenosu entity, kadá
+strana transakce, která obdrí kopii díla, také obdrí všechny licence k
+dílu, které jeho pøedchùdce mìl, nebo mohl dávat podle pøedchozího
+odstavce, plus obdrí právo na vlastnìní Úplného zdroje díla od
+pøedchùdce, pokud ho pøedchùdce vlastní nebo jej mùe poøídit
+opodstatnìnım úsilím.
+
+Nesmíte klást ádné pøekáky vıkonu zaruèenıch práv pøíjemce
+vyplıvajících z této Licence. Napøíklad, nesmíte poadovat ádné
+licenèní poplatky nebo jiné poplatky za vıkon práv udìlenıch touto
+Licencí a nesmíte zahájit soudní spor (vèetnì pøíènıch- a
+proti-pohledávek v soudním sporu) vycházeje z toho, e tvorbou,
+pouíváním, prodejem, nabídnutím k prodeji, nebo dováením Programu nebo
+jakékoli jeho èásti si neèiníte patentového nároku.
+
+
+      11. Patenty
+
+“Pøispìvatel” je dritel autorskıch práv, kterı touto Licencí autorizuje
+pouití Programu nebo díla na Programu zaloeném. Takto licencované dílo
+se nazıvá “verze pøispìvatele”.
+
+Pøispìvatelovımi “základními patentovımi nároky” jsou všechny vlastnìné
+patentové nároky nebo patentové nároky kontrolované pøispìvatelem (ji
+nabyté nebo pozdìji získané), které by tvorbou, pouíváním nebo
+prodáváním verze pøispìvatele byly nìjakım zpùsobem (povolenım touto
+Licencí) porušovány, ale nezahrnuje nároky, které by byly porušeny jen
+následkem dalších úprav verze pøispìvatele. Pro potøeby této definice,
+“kontrolovat” znamená i právo udìlit patentové sublicence zpùsobem
+konzistentním s poadavky této Licence.
+
+Kadı pøispìvatel vám udìluje neexkluzivní, celosvìtovou, bezplatnou
+patentovou licenci podle pøispìvatelovıch základních patentovıch nárokù
+k tvorbì, pouívání, pøedávání, poskytnutí k prodeji, dováení a jinak,
+spouštìní, úpravì a šíøení obsahu verze pøispìvatele.
+
+V dalších tøech odstavcích se “patentovou licencí” myslí jakıkoli
+vıslovnı souhlas nebo závazek nepoadovat patent (vıslovné povolení
+uívání patentu nebo smlouva o nealování za porušení patentu). “Udìlit”
+takovou patentovou licenci nìjaké stranì znamená, buï takovı vıslovnı
+souhlas dát, nebo závazek nevymáhat patent vùèi dotyèné stranì.
+
+Pokud vìdomì zveøejníte chránìné dílo, které podléhá patentové licenci a
+Úplnı zdroj není zadarmo a podle podmínek této Licence není nikomu
+pøístupnı na kopírování pøes veøejnì pøístupnı síovı server, nebo jinak
+jednoduše zpøístupnìnı, pak musíte (1) takovım zpùsobem Úplnı zdroj
+zpøístupnit, nebo (2) se sami o vıhodu patentové licence pro toto
+konkrétní dílo pøipravit, nebo (3) zajistit, zpùsobem konzistentním s
+poadavky této Licence, aby se patentová licence pøenášela na následné
+pøíjemce. “Vìdomì” znamená, e máte skuteènou znalost o tom, e vaše
+zveøejnìní chránìného díla v zemi nebo, e pouití vašeho chránìného
+díla pøíjemcem, by porušilo jedno nebo více identifikovatelnıch patentù
+zemì, o kterıch máte dùvod se domnívat, e jsou platné.
+
+Pokud budete zveøejòovat, nebo šíøit chránìné dílo prostøednictvím
+poøízení jeho zveøejnìní na základì jedné transakce nebo dohody a
+udìlíte patentovou licenci jedné ze stran, které chránìné dílo pøijímá a
+udìlujete tak povolení k pouívání, šíøení, uchování nebo zveøejnìní
+konkrétního exempláøe chránìného díla, pak patentová licence se
+automaticky rozšiøuje na všechny pøíjemce chránìného díla a na díla na
+nìm zaloené.
+
+Patentová licence je “diskriminaèní”, pokud do oblasti své pùsobnosti
+zahrnuje zákazy vıkonu, nebo je podmínìna zákazem vıkonu jedné nebo více
+práv, která jsou touto Licencí udìleny. Chránìné dílo nemùete
+zveøejòovat, pokud jste uzavøeli s tøetí stranou, která se zabıvá
+obchodní distribucí softwaru, dohodu, podle ní platíte tøetí stranì na
+základì rozsahu vašeho úsilí ve zveøejòování díla a podle ní tøetí
+strana udìluje jakékoli stranì, která by pøijala chránìné dílo od vás,
+diskriminaèní patentovou licenci (a) v souvislosti s kopiemi chránìného
+díla zveøejnìného vámi (nebo kopiemi vyrobenımi z tìchto kopií), nebo
+(b) pøedevším v souvislosti s konkrétním produktem nebo kompilací, která
+obsahuje chránìné dílo. To vše, pokud jste tuto dohodu uzavøely, nebo
+byla patentová licence udìlena pøed 28. bøeznem 2007.
+
+Nic z této Licence by nemìlo bıt vykládáno jako navádìní k porušování
+nebo omezování patentù èi jinıch vlastnickıch práv, které by se na vás
+jinak vztahovali podle platného patentového práva.
+
+
+      12. Neexistuje vıjimka na úkor svobody ostatních
+
+Pokud jsou vám uloeny takové podmínky (a ji rozhodnutím soudu,
+smlouvou nebo jinak), které se vyluèují s podmínkami této Licence,
+nejste tím osvobozeni od podmínek této Licence. Pokud nemùete šíøit
+chránìné dílo tak, abyste vyhovìl zároveò svım závazkùm vyplıvajícím z
+této Licence a jinım platnım závazkùm, nesmíte jej v dùsledku toho šíøit
+vùbec. Pokud byste napøíklad souhlasili s podmínkami, které by vám
+neumoòovaly další bezplatné zveøejòování všem, komu Program
+zveøejòujete, pak by jedinı monı zpùsob, jak vyhovìt danım podmínkám a
+zároveò i této Licenci spoèíval v ukonèení distribuce Programu.
+
+
+      13. Pouití s Obecnou veøejnou licencí GNU Affero
+
+Bez ohledu na jakákoli jiná ustanovení této Licence, máte povolení k
+propojení èi kombinování jakéhokoliv chránìného díla s dílem
+licencovanım podle 3. verze Obecné veøejné licence GNU Affero do
+jediného kombinovaného díla a vısledné dílo zveøejnit. Podmínky této
+Licence se budou nadále vztahovat na èást, která je chránìnım dílem,
+ale, pokud jde o interakci prostøednictvím sítì, na kombinované dílo
+jako takové budou platit zvláštní poadavky odstavce 13 Obecné veøejné
+licence GNU Affero.
+
+
+      14. Revidovaná verze této Licence
+
+Free Software Foundation mùe èas od èasu vydávat upravené a/nebo nové
+verze Obecné veøejné licence GNU. Nové verze se budou svım duchem
+podobat souèasné verzi, ale v nìkterıch detailech se kvùli øešení novıch
+problémù èi zájmù mohou lišit.
+
+Kadé verzi je pøidìleno jednoznaèné èíslo verze. Pokud Program urèí
+èíslo verze, vztahuje se na nìj daná verze Obecné veøejné licence GNU
+nebo kterákoli “pozdìji vydaná verze”, a mùete se podle uváení øídit
+ustanoveními a podmínkami této konkrétní verze, nebo kterékoli pozdìjší
+verze vydanou Free Software Foundation. Jestlie program nespecifikuje
+èíslo verze, mùete si vybrat libovolnou verzi, kterou Free Software
+Foundation vydala.
+
+Pokud Program urèí, e proxy-server mùe rozhodnout, která z budoucích
+verzí Obecné veøejné licence GNU mùe bıt pouita, veøejné oznámení
+pøijetí nìkteré verze proxy-serverem vás trvale autorizuje vybrat si pro
+Program tu danou verzi.
+
+Pozdìji vydané verze licence vám mohou zaruèit dodateèné nebo pozmìnìné
+oprávnìní. Avšak v dùsledku vašeho vıbìru øídit se novìjší verzí se na
+ádného autora nebo dritele autorskıch práv neukládají ádné další
+závazky.
+
+
+      15. Zøeknutí se záruky
+
+NA PROGRAM SE NEVZTAHUJE ÁDNÁ ZÁRUKA, V MÍØE POVOLENÉ ZÁKONEM. POKUD
+NENÍ PÍSEMNÌ UVEDENO JINAK, DRITELÉ AUTORSKİCH PRÁV POPØÍPADÌ JINÉ
+STRANY POSKYTUJÍ PROGRAM “TAK JAK JE”, BEZ ZÁRUKY JAKÉHOKOLI DRUHU, A
+VİSLOVNÉ NEBO VYPLİVAJÍCÍ, VÈETNÌ, ALE NIKOLI JEN, ZÁRUK
+OBCHODOVATELNOSTI A VHODNOSTI PRO URÈITİ ÚÈEL. POKUD JDE O KVALITU A
+VİKONNOST PROGRAMU, JE VEŠKERÉ RIZIKO NA VÁS. POKUD BY SE U PROGRAMU
+PROJEVILY ZÁVADY, NÁKLADY NA POTØEBNOU ÚDRBU, OPRAVU ÈI NÁPRAVU PADAJÍ
+NA VÁŠ VRUB.
+
+
+      16. Omezení odpovìdnosti
+
+V ÁDNÉM PØÍPADÌ, S VİJIMKOU TOHO, KDY TO VYADUJE PLATNİ ZÁKON, ANEBO
+KDY TO BYLO PÍSEMNÌ ODSOUHLASENO, VÁM NEBUDE ÁDNİ Z DRITELÙ
+AUTORSKİCH PRÁV ANI ÁDNÁ JINÁ STRANA, KTERÁ SMÍ UPRAVOVAT NEBO ŠÍØIT
+PROGRAM V SOULADU S PØEDCHOZÍMI USTANOVENÍMI, ODPOVÌDNA ZA ŠKODY, VÈETNÌ
+VŠECH OBECNİCH, SPECIÁLNÍCH, NAHODILİCH NEBO NÁSLEDNİCH ŠKOD
+VYPLİVAJÍCÍCH Z UÍVÁNÍ ANEBO NESCHOPNOSTI UÍVAT PROGRAMU (VÈETNÌ, ALE
+NIKOLI JEN, ZTRÁTY NEBO ZKRESLENÍ DAT, NEBO TRVALİCH ŠKOD ZPÙSOBENİCH
+VÁM NEBO TØETÍM STRANÁM, NEBO SELHÁNÍ FUNKCE PROGRAMU V SOUÈINNOSTI S
+JINİMI PROGRAMY), A TO I V PØÍPADÌ, E TAKOVİ DRITEL AUTORSKİCH PRÁV
+NEBO JINÁ STRANA BYLI UPOZORNÌNI NA MONOST TAKOVİCH ŠKOD.
+
+
+      17. Vıklad odstavcù 15 a 16
+
+Pokud vıše uvedené zøeknutí se záruk a omezení odpovìdnosti nemohou bıt
+s ohledem na své podmínky místo-právnì vykonatelné, pøíslušnı soud by
+mìl vycházet z místních zákonù, které se nejvíce pøibliují zbavení
+veškeré obèanskoprávní odpovìdnosti v souvislosti s Programem, pokud
+není záruka nebo pøevzetí odpovìdnosti doprovázena zpoplatnìním kopií
+Programu.
+
+KONEC USTANOVENÍ A PODMÍNEK
+
+
+    Jak uplatnit tato ustanovení na vaše nové programy
+
+Pokud vyvinete novı program a chcete, aby byl veøejnosti co nejvíce k
+uitku, nejlépe to dosáhnete tím, e jej prohlásíte za svobodnı
+software, kterı mùe kdokoliv šíøit a mìnit za podmínek zde uvedenıch.
+
+Pokud se tak rozhodnete, pøipojte k programu následující údaje.
+Nejbezpeènìjším zpùsobem je pøipojit údaje na zaèátek kadého souboru se
+zdrojovım kódem, èím se nejúèinnìji poukáe na vylouèení záruky. V
+kadém souboru by pak mìla bıt pøinejmenším øádka s podpisem autora a
+odkazem na místo, kde lze získat ostatní úplné údaje.
+
+<jeden øádek se jménem programu a krátkım popisem toho, co dìlá>
+Copyright (C) <rok> <jméno autora>
+
+Tento program je svobodnı software: mùete jej šíøit a upravovat podle
+ustanovení Obecné veøejné licence GNU (GNU General Public Licence),
+vydávané Free Software Foundation a to buï podle 3. verze této Licence,
+nebo (podle vašeho uváení) kterékoli pozdìjší verze.
+
+Tento program je rozšiøován v nadìji, e bude uiteènı, avšak BEZ
+JAKÉKOLIV ZÁRUKY. Neposkytují se ani odvozené záruky PRODEJNOSTI anebo
+VHODNOSTI PRO URÈITİ ÚÈEL. Další podrobnosti hledejte v Obecné veøejné
+licenci GNU.
+
+Kopii Obecné veøejné licence GNU jste mìli obdret spolu s tímto
+programem. Pokud se tak nestalo, najdete ji zde:
+<http://www.gnu.org/licenses/>.
+
+Pøipojte rovnì informaci o tom, jakım zpùsobem je moné se s vámi
+spojit – elektronickou poštou nebo dopisem.
+
+Pokud je program interaktivní, zaøiïte, aby se pøi startu v
+interaktivním módu vypsalo hlášení podobné tomuto:
+
+<program> Copyright (C) <rok> <jméno autora>
+Tento program je ABSOLUTNÌ BEZ ZÁRUKY; podrobnosti se dozvíte zadáním
+’show w’.
+Jde o svobodnı software a jeho šíøení je za urèitıch podmínek vítáno;
+podrobnosti získáte zadáním ’show c’.
+
+Hypotetické povely ’show w’ a ’show c’ by mìly zobrazit pøíslušné pasáe
+Obecné veøejné licence. Samozøejmì, odpovídající pøíkazy nemusí bıt
+právì tyto, v grafickém uivatelském prostøedí (GUI) to mùe bıt napø.
+èást “O nás” nebo “O programu”.
+
+Pokud je to nutné, mìli byste u svého zamìstnavatele (jestlie pracujete
+jako programátor) nebo pøedstavitele vaší školy (pokud nìjakou
+navštìvujete) zaøídit, aby podepsal “zøeknutí se autorskıch práv” k
+Programu. Více informací o tom, jak to udìlat a zároveò neporušit GNU
+GPL, najdete na http://www.gnu.org/licenses/.
+
+Obecná veøejná licence GNU neumoòuje zahrnutí vašeho programu do
+programù, které nepodléhají Licenci. Pokud je váš program knihovnou
+podprogramù, mùete povaovat za uiteènìjší povolit pouze navázání
+jinıch aplikací (nepodléhajících této Licenci) na tuto knihovnu. Pokud
+tak chcete udìlat, místo této Licence pouijte Obecnou veøejnou licenci
+GNU Lesser. Ale ještì pøed tím si, prosím, pøeètìte:
+http://www.gnu.org/philosophy/why-not-lgpl.html.
+
+The DRM-free label
+<http://www.defectivebydesign.org/drm-free/how-to-use-label> by
+Defective by Design (source </images/DRM-free%20label.en.svg>) is
+licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported
+License </cc-by-sa-3.txt>.
+
